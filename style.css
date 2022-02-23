@@ -10,3 +10,11 @@ margin:0;
 padding:0;
 windth:100%;
 }
+/*Center the content in the browser windoe*/
+.container{
+  margin:auto
+    tent-align:center
+}
+.title{
+  font-Size:3rem;
+}
