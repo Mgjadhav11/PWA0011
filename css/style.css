@@ -10,11 +10,17 @@ margin:0;
 padding:0;
 windth:100%;
 }
-/*Center the content in the browser windoe*/
+/*Center the content in the browser window*/
 .container{
   margin:auto
     tent-align:center
 }
 .title{
   font-Size:3rem;
+}
+.icons{
+		src: "images/hello-icon-144.png",
+    sizes: 144x144,
+		type: "image/png",
+		purpose: "any"
 }
