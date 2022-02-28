@@ -1,13 +1,6 @@
 {
   "name": "Hello World",
   "short_name": "Hello",
-  "lang":"en-US",
-  "start-url": "/PWA0011/index.html",
-  "display": "standalone",
-  "background-color": "white",
-  "theme_color": "white"
-  
-}
  
   "icons": [{
 		"src": "images/hello-icon-128.png",
@@ -45,3 +38,9 @@
 		"type": "image/png",
 		"purpose": "any"
 	}],
+	 "lang":"en-US",
+  	"start-url": "/PWA0011/index.html",
+  	"display": "standalone",
+  	"background-color": "white",
+  	"theme_color": "white"
+}
